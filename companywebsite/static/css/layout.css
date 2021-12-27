@@ -4,7 +4,8 @@
 }
 body {
   background-color: whitesmoke;
-  color: #17421d;
+  color: black;
+  font-size: x-large
 }
 .container {
   width: 1080px;
@@ -21,11 +22,11 @@ body {
   height: 250px;
   text-align: center;
   font-size: 60px;
-  background-image: url("/static/img/banner1.jpg");
+  background-image: url("/static/img/logoo.png");
   background-size: 100% 100%;
   margin: 0px 0px 0px 0px;
   padding-top: 150px;
-  color: #16d1ae;
+  color: white;
 }
 
 .menu {
@@ -33,7 +34,7 @@ body {
   width: 100%;
   height: 50px;
   font-size: larger;
-  background-color: #5bb045;
+  background-color: grey;
   text-align: center;
   padding-top: 15px;
   margin: 0px 0px 0px 0px;
@@ -54,13 +55,13 @@ body {
 
 .menuitem a {
   text-decoration: none;
-  color: #9c1018;
+  color: #250204;
 }
 
 .content {
   display: block;
   width: 100%;
-  background-color: #cffffd;
+  background-image: url("/static/img/bg2.jpg");
   min-height: 500px;
   margin: 0px 0px 0px 0px;
   border-width: 1px;
@@ -129,9 +130,9 @@ body {
   display: block;
   width: 100%;
   height: 40px;
-  background-color: #5bb045;
+  background-color:grey;
   text-align: center;
   padding-top: 10px;
   margin: 0px 0px 0px 0px;
-  color: #9c1018;
+  color: #250204;
 }
